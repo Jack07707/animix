@@ -12,6 +12,7 @@ const animeEpisodes = [
     { title: "Непревзойденный на пути алхимии", time: "26.10.2025, 13:45", eps: 165, img: "/img/Непревзойденный на пути алхимии.webp", link: "neprevzoydenniy-na-puti-alximi.html" },
     { title: "Пожиратель звёзд 4 ", time: "27.10.2025, 10:20", eps: 62, img: "https://animix.site/img/%D0%9F%D0%BE%D0%B6%D0%B8%D1%80%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%20%D0%B7%D0%B2%D1%91%D0%B7%D0%B4.webp", link: "anime/pojiratel-zvyozd.html" },
     { title: "Древнейший боевой дух", time: "05.09.2025, 15:30", eps: 37, img: "/img/Древнейший боевой дух.webp", link: "drevneyshiy-boevoy-dux-anime-2025.html" },
+    { title: "Противостояние святого", time: "26.10.2025, 12:30", eps: 112, img: "https://animix.site/img/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE.webp", link: "anime/protivvostoyanie-svyatova.html" },
     { title: "Гробница богов", time: "05.09.2025, 13:10", eps: 49, img: "/img/%D0%93%D1%80%D0%BE%D0%B1%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B1%D0%BE%D0%B3%D0%BE%D0%B2.webp", link: "grobnisa-bogov.html" },
     { title: "Вознёсшийся над небесами", time: "05.09.2025, 13:10", eps: 22, img: "/img/voznesshiy-nad-nebesami.webp", link: "voznesshiy-nad-nebesami.html" },
     { title: "Владыка духовного меча", time: "05.09.2025, 15:45", eps: 622, img: "/img/Владыка духовного меча 2 (2019).webp", link: "vladika-duxovnova-mecha.html" },
