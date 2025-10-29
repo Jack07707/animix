@@ -1,5 +1,5 @@
 const animeEpisodes = [
-    { title: "Верховный Бог", time: "05.09.2025, 11:50", eps: 523, img: "https://cimix.site/img/Верховный Бог.webp", link: "verxovniy-bog.html" },
+    { title: "Практикуя ци сто тысяч лет", time: "28.10.2025, 11:50", eps: 281, img: "https://animix.site/img/Верховный Бог.webp", link: "anime/verxovniy-bog.html" },
     { title: "Противостоящий небесам", time: "05.09.2025, 14:40", eps: 442, img: "/img/Противостоящий небесам.webp", link: "protivostoyashiy-nebesam.html" },
     { title: "Древнейший боевой дух", time: "05.09.2025, 15:30", eps: 37, img: "/img/Древнейший боевой дух.webp", link: "drevneyshiy-boevoy-dux-anime-2025.html" },
     { title: "Мое просветление бесконечно", time: "05.09.2025, 10:05", eps: 40, img: "/img/Мое просветление бесконечно.webp", link: "moe-prosvetlenie-beskonechno.html" },
