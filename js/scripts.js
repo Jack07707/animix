@@ -1,5 +1,6 @@
 const animeEpisodes = [
-    { title: "Практикуя ци сто тысяч лет", time: "28.10.2025, 11:50", eps: 281, img: "https://animix.site/img/Верховный Бог.webp", link: "anime/verxovniy-bog.html" },
+    { title: "Практикуя ци сто тысяч лет", time: "28.10.2025, 11:50", eps: 281, img: "https://animix.site/img/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%8F%20%D1%86%D0%B8%20%D1%81%D1%82%D0%BE%20%D1%82%D1%8B%D1%81%D1%8F%D1%87%20%D0%BB%D0%B5%D1%82.webp", link: "anime/praktikuya-si-sto-tisoch-let.html" },
+    { title: "Владыка духовного меча", time: "28.10.2025, 14:50", eps: 634, img: "https://animix.site/img/%D0%92%D0%BB%D0%B0%D0%B4%D1%8B%D0%BA%D0%B0%20%D0%B4%D1%83%D1%85%D0%BE%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE%20%D0%BC%D0%B5%D1%87%D0%B0%202%20(2019).webp", link: "anime/vladika-duxovnova-mecha-3.html" },
     { title: "Противостоящий небесам", time: "05.09.2025, 14:40", eps: 442, img: "/img/Противостоящий небесам.webp", link: "protivostoyashiy-nebesam.html" },
     { title: "Древнейший боевой дух", time: "05.09.2025, 15:30", eps: 37, img: "/img/Древнейший боевой дух.webp", link: "drevneyshiy-boevoy-dux-anime-2025.html" },
     { title: "Мое просветление бесконечно", time: "05.09.2025, 10:05", eps: 40, img: "/img/Мое просветление бесконечно.webp", link: "moe-prosvetlenie-beskonechno.html" },
