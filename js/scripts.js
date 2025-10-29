@@ -17,6 +17,7 @@ const animeEpisodes = [
     { title: "Вознёсшийся над небесами", time: "05.09.2025, 13:10", eps: 22, img: "/img/voznesshiy-nad-nebesami.webp", link: "voznesshiy-nad-nebesami.html" },
     { title: "Владыка духовного меча", time: "05.09.2025, 15:45", eps: 622, img: "/img/Владыка духовного меча 2 (2019).webp", link: "vladika-duxovnova-mecha.html" },
     { title: "Безупречный мир", time: "05.09.2025, 11:10", eps: 231, img: "/img/Безупречный мир.webp", link: "bezuprechniy-mir.html" },
+    { title: "Путешествие к бессмертию", time: "25.10.2025, 11:10", eps: 166, img: "https://animix.site/img/%D0%9F%D1%83%D1%82%D0%B5%D1%88%D0%B5%D1%81%D1%82%D0%B2%D0%B8%D0%B5%20%D0%BA%20%D0%B1%D0%B5%D1%81%D1%81%D0%BC%D0%B5%D1%80%D1%82%D0%B8%D1%8E.webp", link: "anime/putushestviya-k-besemertiyu.html" },
     { title: "Несравненный боевой дух", time: "05.09.2025, 14:15", eps: 139, img: "/img/Высший боевой дух  Несравненный боевой дух.webp", link: "nesravnoniy-boevoy-dux.html" },
     { title: "Трон, отмеченный Богом", time: "05.09.2025, 13:10", eps: 175, img: "/img/Трон, отмеченный богом anime 2022.webp", link: "tron-otmechiniy-bogom-anime-2022.html" },
     { title: "Нефритовая династия", time: "04.09.2025, 12:10", eps: 67, img: "https://cimix.site/img/%D0%9D%D0%B5%D1%84%D1%80%D0%B8%D1%82%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%B4%D0%B8%D0%BD%D0%B0%D1%81%D1%82%D0%B8%D1%8F.webp", link: "nefritovaya-dinastiya.html" },
