@@ -1,21 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cimix.site/</loc>
+    <loc>https://animix.site/</loc>
     <lastmod>2025-05-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://cimix.site/about.html</loc>
+    <loc>https://animix.site/about.html</loc>
     <lastmod>2025-05-05</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://cimix.site/pravila.html</loc>
+    <loc>https://animix.site/pravila.html</loc>
     <lastmod>2025-04-25</lastmod>
     <changefreq>yearly</changefreq>
-    <priority>0.4</priority>
+    <priority>1.0</priority>
   </url>
 </urlset>
+
