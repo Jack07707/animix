@@ -1,14 +1,14 @@
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-    <ShortName>CiMix - Аниме, Дорама онлайн, смотреть, бесплатно, в хорошем качестве!</ShortName>
-    <LongName>Cimix.site - Смотреть Аниме и Дорамы Онлайн</LongName>
+    <ShortName>animix - Аниме, Дорама онлайн, смотреть, бесплатно, в хорошем качестве!</ShortName>
+    <LongName>animix.site - Смотреть Аниме и Дорамы Онлайн</LongName>
     <Description>CiMix — смотрите лучшие аниме и дорамы онлайн бесплатно и без регистрации!</Description>
-    <Contact>admin@cimix.site</Contact>
+    <Contact>admin@animix.site</Contact>
  
     
-    <Image height="64" width="64" type="image/png">https://cimix.site/logo.svg</Image>
-    <Image height="16" width="16" type="image/vnd.microsoft.icon">https://cimix.site/img/favicon.ico</Image>
+    <Image height="64" width="64" type="image/png">https://animix.site/logo.svg</Image>
+    <Image height="16" width="16" type="image/vnd.microsoft.icon">https://animix.site/img/favicon.ico</Image>
     
-    <Developer>Cimix.site</Developer>
+    <Developer>animix.site</Developer>
     <Attribution>Copyright (c) 2025 Cimix All Rights Reserved.</Attribution>
     
     <SyndicationRight>open</SyndicationRight>
