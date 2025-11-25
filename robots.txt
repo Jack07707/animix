@@ -1,4 +1,149 @@
-User-agent: *
+
+# ============================
+#   MAIN SEARCH ENGINES ACCESS
+# ============================
+
+# Google
+User-agent: Googlebot
 Allow: /
 
+# Google Images
+User-agent: Googlebot-Image
+Allow: /
+
+# Google News
+User-agent: Googlebot-News
+Allow: /
+
+# Yandex
+User-agent: Yandex
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+# Yandex Mobile
+User-agent: YandexMobileBot
+Allow: /
+
+# Bing / Microsoft
+User-agent: bingbot
+Allow: /
+
+# DuckDuckGo (uses Bing)
+User-agent: DuckDuckBot
+Allow: /
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+
+# Mail.ru
+User-agent: Mail.RU_Bot
+Allow: /
+
+# Baidu (Китай)
+User-agent: Baiduspider
+Allow: /
+
+# Naver (Корея)
+User-agent: Yeti
+Allow: /
+
+# Seznam (Чехия)
+User-agent: SeznamBot
+Allow: /
+
+# ============================
+#  GLOBAL RULES FOR SEARCH BOTS
+# ============================
+User-agent: *
+Disallow: /admin/
+Disallow: /administrator/
+Disallow: /auth/
+Disallow: /login/
+Disallow: /register/
+Disallow: /user/
+Disallow: /private/
+Disallow: /cache/
+Disallow: /tmp/
+Disallow: /config/
+Disallow: /cgi-bin/
+Disallow: /internal/
+Disallow: /api/
+Disallow: /*?session=
+Disallow: /*?utm_*
+Disallow: /*?sort=
+Disallow: /*?filter=
+Disallow: /search?
+
+Allow: /assets/
+Allow: /images/
+Allow: /static/
+Allow: /public/
+Allow: /css/
+Allow: /js/
+Allow: /fonts/
+Allow: /
+
+# ============================
+#  IMAGES INDEXING
+# ============================
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+
+# ============================
+#  SITEMAPS
+# ============================
 Sitemap: https://animix.site/sitemap.xml
+Sitemap: https://animix.site/sitemap-images.xml
+
+# ============================
+#  BLOCK BAD BOTS  (AGGRESSIVE SCRAPERS)
+# ============================
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: HTTrack
+Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: Wget
+Disallow: /
+
+User-agent: curl
+Disallow: /
+
+User-agent: python-requests
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+# ============================
+#  BOT SPEED CONTROL
+# ============================
+Crawl-delay: 1
