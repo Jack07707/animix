@@ -1,19 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-    <ShortName>animix - Аниме, Дорама онлайн, смотреть, бесплатно, в хорошем качестве!</ShortName>
-    <LongName>animix.site - Смотреть Аниме и Дорамы Онлайн</LongName>
-    <Description>CiMix — смотрите лучшие аниме и дорамы онлайн бесплатно и без регистрации!</Description>
-    <Contact>admin@animix.site</Contact>
- 
-    
-    <Image height="64" width="64" type="image/png">https://animix.site/logo.svg</Image>
-    <Image height="16" width="16" type="image/vnd.microsoft.icon">https://animix.site/img/favicon.ico</Image>
-    
-    <Developer>animix.site</Developer>
-    <Attribution>Copyright (c) 2025 Cimix All Rights Reserved.</Attribution>
-    
-    <SyndicationRight>open</SyndicationRight>
-    <AdultContent>false</AdultContent>
-    <Language>ru-ru</Language>
-    <InputEncoding>utf-8</InputEncoding>
-    <OutputEncoding>utf-8</OutputEncoding>
+
+  <!-- Основная информация о поисковой системе -->
+  <ShortName>Animix.site PRO++</ShortName>
+  <Description>Поиск и просмотр топ 10 китайских донгхуа с мини-превью на Animix.site</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <Language>ru-RU</Language>
+  <Developer>Animix.site Team</Developer>
+  <AdultContent>false</AdultContent>
+
+  <!-- Поисковая ссылка с подстановкой запроса -->
+  <Url type="text/html" method="get" template="https://animix.site/search?q={searchTerms}"/>
+
+  <!-- RSS-фид для интеграции новых эпизодов -->
+  <Url type="application/rss+xml" rel="self" template="https://animix.site/rss.xml"/>
+
+  <!-- Логотип и мини-превью -->
+  <Image height="64" width="64" type="image/png">https://animix.site/img/logo.svg</Image>
+
+  <!-- Примеры поиска с мини-превью -->
+  <Query role="example" searchTerms="Расколотая битвой синева небес 5"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/0909.webp</Image>
+
+  <Query role="example" searchTerms="Боевой мастер"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80.webp</Image>
+
+  <Query role="example" searchTerms="Боевой континент 2: Непревзойдённый клан Тан"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%202%20%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D0%B2%D0%B7%D0%BE%D0%B9%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BB%D0%B0%D0%BD%20%D0%A2%D0%B0%D0%BD.webp</Image>
+
+  <Query role="example" searchTerms="Безупречный мир"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/%D0%91%D0%B5%D0%B7%D1%83%D0%BF%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B8%D1%80.webp</Image>
+
+  <Query role="example" searchTerms="Контратака изгнанного ученика"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/imperator-boevyh-iskusstv.webp</Image>
+
+  <Query role="example" searchTerms="Лазурное наследие"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/%D0%9B%D0%B0%D0%B7%D1%83%D1%80%D0%BD%D0%BE%D0%B5%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5.webp</Image>
+
+  <Query role="example" searchTerms="Противостоящий небесам"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9%20%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%B0%D0%BC.webp</Image>
+
+  <Query role="example" searchTerms="Противостояние святого"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE.webp</Image>
+
+  <Query role="example" searchTerms="Владыка множества миров"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/%D0%B2%D0%BB%D0%B0%D0%B4%D1%8B%D0%BA%D0%B0%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BC%D0%B8%D1%80%D0%BE%D0%B2.webp</Image>
+
+  <Query role="example" searchTerms="Практикуя ци сто тысяч лет"/>
+  <Image height="120" width="213" type="image/webp" rel="icon">https://animix.site/img/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%8F%20%D1%86%D0%B8%20%D1%81%D1%82%D0%BE%20%D1%82%D1%8B%D1%81%D1%8F%D1%87%20%D0%BB%D0%B5%D1%82.webp</Image>
+
+  <!-- Теги и категории для лучшей индексации -->
+  <Tags>донгхуа, китайские аниме, top10, Animix.site, RSS, мини-превью</Tags>
+
 </OpenSearchDescription>
