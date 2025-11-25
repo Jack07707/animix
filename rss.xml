@@ -1,164 +1,366 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
-    <channel>
-    <title>CiMix - Смотрите Лучшие Аниме и Дорама Онлайн Бесплатно!</title>
-    <link>https://www.animix.site/</link>
-    <language>ru</language>
-    <description>Animix — место, где начинается ваше путешествие в мир аниме! Мы создали этот сайт для всех, кто любит аниме: просто ищущих хороший аниме на вечер. Наша цель — сделать аниме доступным, удобным и интересным для каждого.</description>
-    <generator>Cimix</generator>
-    <atom:link href="https://animix.site/rss.xml" rel="self" type="application/rss+xml" />
-     <item>
-     <title>Расколотая битвой синева небес 5</title>
-    <guid>https://animix.site/anime/raskolotaya-bitvoy-sinevo-nebes-5.html</guid>
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+
+xmlns:atom="http://www.w3.org/2005/Atom"
+
+ xmlns:media="http://search.yahoo.com/mrss/"
+
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+
+ xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+<channel><title>Animix.site — Топ 10 китайских донихуа</title>   
+<link>https://animix.site/</link>   
+<description>Подборка лучших китайских донихуа по твоему списку.</description>
+
+<language>ru</language>
+
+<generator>Animix site PRO+ RSS Engine</generator>   
+<lastBuildDate>Tue, 25 Nov 2025 20:00:00 +0300</lastBuildDate>
+
+
+
+<atom:link href="https://animix.site/rss.xml" rel="self" type="application/rss+xml"/>
+
+
+
+<image>
+
+    <url>https://animix.site/img/logo.svg</url>   
+    <title>Animix site </title>
+
+    <link>https://animix.site/</link>
+
+    <width>128</width>
+
+    <height>128</height>
+
+</image>
+
+
+
+<copyright>© 2025 Animix site </copyright>
+
+<dc:creator>Animix site  Team</dc:creator>
+
+<ttl>10</ttl>
+
+
+
+<!-- 1. Расколотая битвой синева небес 5 -->
+
+<item>
+
+    <title><![CDATA[Расколотая битвой синева небес 5]]></title>
+
     <link>https://animix.site/anime/raskolotaya-bitvoy-sinevo-nebes-5.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Боевые искусства» / Китайское аниме в жанре «Экшен» / Китайское аниме в жанре «Приключения» / Китайское аниме в жанре «Фэнтези» / Китайское аниме 2022 года ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Tue, 20 May 2025 00:14:51 +0300</pubDate>
-    <description>
-    <![CDATA[В мире, где нет волшебства, правит сильный, а слабому остаётся лишь повиноваться. Сяо Янь, чьим талантам не было равных уже несколько поколений, за три года растерял все своё могущество, репутацию и, главное, обманул надежды своей матери. Какое чёрное волшебство лишило его всего на свете? Пришло время в этом разобраться, вернуть себе утраченное и стать куда сильнее чем прежде, чтобы защитить свою семью. ]]>
-    </description>
-    <content:encoded>
-    <![CDATA[В мире, где нет волшебства, правит сильный, а слабому остаётся лишь повиноваться. Сяо Янь, чьим талантам не было равных уже несколько поколений, за три года растерял все своё могущество, репутацию и, главное, обманул надежды своей матери. Какое чёрное волшебство лишило его всего на свете? Пришло время в этом разобраться, вернуть себе утраченное и стать куда сильнее чем прежде, чтобы защитить свою семью. ]]>
-    </content:encoded>
-    </item>
-    <item>
-    <title>Противостоящий небесам</title>
-    <guid>https://animix.site/anime/protivostoyashiy-nebesam.html</guid>
-    <link>https://animix.site/anime/protivostoyashiy-nebesam.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Приключения» / Китайское аниме в жанре «Фэнтези» / Китайское аниме 2021 года ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Tue, 20 May 2025 00:14:16 +0300</pubDate>
-    <description>
-    <![CDATA[ Мир разделёна на два — внутренний и внешний, и они находятся в состоянии непримиримой войны. Внешним миром управляют демоны, а внутренний принадлежит людям и состоит из трёх реальностей: царства небожителей, царства бессмертных и царства смертных. ]]>
-    </description>
-    </item>
-    <item>
-    <title>Противостояние святого</title>
-    <guid>https://animix.site/anime/protivvostoyanie-svyatova.html</guid>
-    <link>https://animix.site/anime/protivvostoyanie-svyatova.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Боевые искусства» / Китайское аниме в жанре «Экшен» / Китайское аниме в жанре «Фэнтези» / Китайское аниме 2023 года ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Tue, 20 May 2025 00:14:06 +0300</pubDate>
-    <description>
-    <![CDATA[ Противостояние святого следует за захватывающей историей Ван Линя, молодого человека, рожденного с искалеченной душой. Не смущаясь своих ограничений, Ван Линь встает на решительный путь, чтобы развить бессмертие и достичь невообразимой силы. ]]>
-    </description>
-    <content:encoded>
-    <![CDATA[ Противостояние святого следует за захватывающей историей Ван Линя, молодого человека, рожденного с искалеченной душой. Не смущаясь своих ограничений, Ван Линь встает на решительный путь, чтобы развить бессмертие и достичь невообразимой силы.]]>
-    </content:encoded>
-    </item>
-    <item>
-    <title>Контратака изгнанного ученика</title>
-    <guid>https://animix.site/anime/kontrataka-izgnanova-uchenika.html</guid>
+
+    <guid isPermaLink="true">https://animix.site/anime/raskolotaya-bitvoy-sinevo-nebes-5.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 10:00:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донгхуа]]></category>   
+    <description><![CDATA[Продолжение популярной саги «Расколотая битвой синева небес» (Doupo Cangqiong).]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Сюжет рассказывает о Сяо Яне, который сталкивается с испытаниями и опасными врагами в Академии Цзянань.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/0909.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/0909.webp"/>
+
+</item>
+
+
+
+<!-- 2. Боевой мастер -->
+
+<item>
+
+    <title><![CDATA[Боевой мастер]]></title>
+
+    <link>https://animix.site/anime/boyevoy-master.html</link>
+
+    <guid isPermaLink="true">https://animix.site/anime/boyevoy-master.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 10:30:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донинхуа]]></category>
+
+    <description><![CDATA[До­нихуа о боевых искусствах и мастерах, где главный герой стремится стать сильнейшим бойцом.]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Главный герой проходит через множество испытаний, чтобы достичь высших техник и стать настоящим мастером.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80.webp"/>
+
+</item>
+
+
+
+<!-- 3. Боевой континент 2: Непревзойдённый клан Тан -->
+
+<item>
+
+    <title><![CDATA[Боевой континент 2: Непревзойдённый клан Тан]]></title>
+
+    <link>https://animix.site/anime/boyevoy-kontinent-2-neprevzoydyoniy-klan-tan.html</link>
+
+    <guid isPermaLink="true">https://animix.site/anime/boyevoy-kontinent-2-neprevzoydyoniy-klan-tan.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 11:00:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донинхуа]]></category>
+
+    <description><![CDATA[Продолжение «Боевого континента». Сюжет разворачивается через 10 000 лет после падения клана Тан.]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Новые герои сражаются в мире боевых духов, стремясь восстановить величие клана Тан.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%202%20%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D0%B2%D0%B7%D0%BE%D0%B9%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BB%D0%B0%D0%BD%20%D0%A2%D0%B0%D0%BD.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/%D0%91%D0%BE%D0%B5%D0%B2%D0%BE%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%82%D0%B8%D0%BD%D0%B5%D0%BD%D1%82%202%20%D0%9D%D0%B5%D0%BF%D1%80%D0%B5%D0%B2%D0%B7%D0%BE%D0%B9%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%BA%D0%BB%D0%B0%D0%BD%20%D0%A2%D0%B0%D0%BD.webp"/>
+
+</item>
+
+
+
+<!-- 4. Безупречный мир -->
+
+<item>
+
+    <title><![CDATA[Безупречный мир]]></title>
+
+    <link>https://animix.site/anime/bezuprechniy-mir.html</link>
+
+    <guid isPermaLink="true">https://animix.site/anime/bezuprechniy-mir.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 11:30:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донинхуа]]></category>
+
+    <description><![CDATA[Сериал о культивации, где молодой Ши Хао обладает редкой духовной костью и стремится изменить судьбу своего клана.]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Ши Хао сталкивается с многочисленными препятствиями, чтобы спасти свой клан и добиться могущества.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/%D0%91%D0%B5%D0%B7%D1%83%D0%BF%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B8%D1%80.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/%D0%91%D0%B5%D0%B7%D1%83%D0%BF%D1%80%D0%B5%D1%87%D0%BD%D1%8B%D0%B9%20%D0%BC%D0%B8%D1%80.webp"/>
+
+</item>
+
+
+
+<!-- 5. Контратака изгнанного ученика -->
+
+<item>
+
+    <title><![CDATA[Контратака изгнанного ученика]]></title>
+
     <link>https://animix.site/anime/kontrataka-izgnanova-uchenika.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Боевые искусства» ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Tue, 20 May 2025 00:13:54 +0300</pubDate>
-    <description>
-    <![CDATA[ Эта история рассказывает историю о Е Чэне, который был тяжело ранен и изгнан из своей секты. В процессе своего путешествия он случайно столкнулся с небесным огнём и начал заниматься боевыми искусствами. Мир, в котором происходят события, населен богами, демонами и бессмертными, и находится в состоянии хаоса. Е Чэнь преодолевает все трудности и страдания, чтобы достичь вершины своего пути. ]]>
-    </description>
-    <content:encoded>
-    <![CDATA[ Эта история рассказывает историю о Е Чэне, который был тяжело ранен и изгнан из своей секты. В процессе своего путешествия он случайно столкнулся с небесным огнём и начал заниматься боевыми искусствами. Мир, в котором происходят события, населен богами, демонами и бессмертными, и находится в состоянии хаоса. Е Чэнь преодолевает все трудности и страдания, чтобы достичь вершины своего пути. ]]>
-    </content:encoded>
-    </item>
-    <item>
-    <title>Практикуя ци сто тысяч лет</title>
-    <guid>https://animix.site/anime/praktikuya-si-sto-tisoch-let.html</guid>
-    <link>https://animix.site/anime/praktikuya-si-sto-tisoch-let.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Боевые искусства» / Китайское аниме в жанре «Экшен» / Китайское аниме в жанре «Приключения» / Китайское аниме в жанре «Фэнтези» / Китайское аниме 2023 года ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Mon, 19 May 2025 23:06:43 +0300</pubDate>
-    <description>
-    <![CDATA[ Секта Тяньлань стала самой могущественной в Китае сто тысяч лет назад. Каждый ученик был известным и могущественным человеком, кроме Сюя Яна, который оставался на уровне концентрации энергии Ци. Чтобы достичь возвышения, он начал десятитысячелетнюю медитацию. После ее окончания он увидел, что в его секте осталось всего несколько учеников. Сможет ли он раскрыть тайны трех миров - людей, демонов и бессмертных - чтобы вернуть своей секте ее прежнее величие?]]>
-    </description>
-    <content:encoded>
-    <![CDATA[ Секта Тяньлань стала самой могущественной в Китае сто тысяч лет назад. Каждый ученик был известным и могущественным человеком, кроме Сюя Яна, который оставался на уровне концентрации энергии Ци. Чтобы достичь возвышения, он начал десятитысячелетнюю медитацию. После ее окончания он увидел, что в его секте осталось всего несколько учеников. Сможет ли он раскрыть тайны трех миров - людей, демонов и бессмертных - чтобы вернуть своей секте ее прежнее величие?]]>
-    </content:encoded>
-    </item>
-    <item>
-    <title>Легенда из глубины веков</title>
-    <guid>https://animix.site/anime/legenda-iz-glubini-vekov.html</guid>
-    <link>https://animix.site/anime/legenda-iz-glubini-vekov.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Боевые искусства» / Китайское аниме в жанре «Экшен» / Китайское аниме в жанре «Приключения» / Китайское аниме в жанре «Романтика» / Китайское аниме в жанре «Фэнтези» / Китайское аниме 2022 года ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Sun, 18 May 2025 22:39:59 +0300</pubDate>
-    <description>
-    <![CDATA[ Из эпохи истощенной ауры в конце Дхармы в мир процветающих боевых искусств, странных и мертвых видов духов и опасной ситуации, куда идет Ван Хао, который находится в бездне?]]>
-    </description>
-    <content:encoded>
-    <![CDATA[ Из эпохи истощенной ауры в конце Дхармы в мир процветающих боевых искусств, странных и мертвых видов духов и опасной ситуации, куда идет Ван Хао, который находится в бездне?]]>
-    </content:encoded>
-    </item>
-    <item>
-    <title>Верховный Бог</title>
-    <guid>https://animix.site/anime/verxovniy-bog.html</guid>
-    <link>https://animix.site/anime/verxovniy-bog.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Боевые искусства» / Китайское аниме в жанре «Экшен» / Китайское аниме в жанре «Фэнтези» / Китайское аниме в жанре «Исторический» / Китайское аниме 2020 года ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Sun, 18 May 2025 22:39:46 +0300</pubDate>
-    <description>
-    <![CDATA[ Десять тысяч лет назад фейский король Муюнь был тайно объяснен, держась за фигуру Жусянь, и после долгого сна он был разбужен в знаменитом «бесполезном Муюне» империи Южного Юна на материковом небе. Когда Муюн впервые проснулась, ее сознательно беспокоила Мяосянью ученика. Муюнь легко разрешила ловушку Мяоксианю и по аналогии выдавала все больше и больше техник алхимии, так что мастер алхимии за дверью не мог оценить Бесконечный. Вернувшись домой, Му Юнь узнал, что выйдет замуж за мисс Цинь Цинь Мэнъяо. Цинь Мэнъяо холодный и ядовитый, но он не может жить, пока ему не исполнится 20 лет. Брак только для пастухов и семьи Цинь. Однако, по убеждению Му Линьчэнь, Му Юнь согласился с этим семейным вопросом при условии алхимии. ]]>
-    </description>
-    </item>
-    <item>
-    <title>Владыка множества миров</title>
-    <guid>https://animix.site/anime/vladika-mnojestva-mirov.html</guid>
+
+    <guid isPermaLink="true">https://animix.site/anime/kontrataka-izgnanova-uchenika.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 12:00:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донинхуа]]></category>
+
+    <description><![CDATA[История ученика, который был изгнан, но возвращается, чтобы отомстить и доказать свою силу.]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Главный герой возвращается, чтобы доказать, что достоин большего.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/imperator-boevyh-iskusstv.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/imperator-boevyh-iskusstv.webp"/>
+
+</item>
+
+
+
+<!-- 6. Лазурное наследие -->
+
+<item>
+
+    <title><![CDATA[Лазурное наследие]]></title>
+
+    <link>https://animix.site/anime/lazurniy-naslediya.html</link>
+
+    <guid isPermaLink="true">https://animix.site/anime/lazurniy-naslediya.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 12:30:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донинхуа]]></category>
+
+    <description><![CDATA[Путь героя, связанный с тайнами древнего мира и кланов.]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Молодой наследник раскрывает тайны своего рода и артефактов, утерянных в веках.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/%D0%9B%D0%B0%D0%B7%D1%83%D1%80%D0%BD%D0%BE%D0%B5%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/%D0%9B%D0%B0%D0%B7%D1%83%D1%80%D0%BD%D0%BE%D0%B5%20%D0%BD%D0%B0%D1%81%D0%BB%D0%B5%D0%B4%D0%B8%D0%B5.webp"/>
+
+</item>
+
+
+
+<!-- 7. Противостоящий небесам -->
+
+<item>
+
+    <title><![CDATA[Противостоящий небесам]]></title>
+
+    <link>https://animix.site/anime/protivostoyashiy-nebesam.html</link>
+
+    <guid isPermaLink="true">https://animix.site/anime/protivostoyashiy-nebesam.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 13:00:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донинхуа]]></category>
+
+    <description><![CDATA[Герой бросает вызов небесам, чтобы изменить судьбу мира.]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Эпическое противостояние с божественными силами и испытания героя.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9%20%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%B0%D0%BC.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B8%D0%B9%20%D0%BD%D0%B5%D0%B1%D0%B5%D1%81%D0%B0%D0%BC.webp"/>
+
+</item>
+
+
+
+<!-- 8. Противостояние святого -->
+
+<item>
+
+    <title><![CDATA[Противостояние святого]]></title>
+
+    <link>https://animix.site/anime/protivvostoyanie-svyatova.html</link>
+
+    <guid isPermaLink="true">https://animix.site/anime/protivvostoyanie-svyatova.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 13:30:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донинхуа]]></category>
+
+    <description><![CDATA[Конфликт между святыми и смертными, где герой пытается доказать своё право на силу и справедливость.]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Духовные битвы и сражения за идеалы героя в мире святого противостояния.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/%D0%9F%D1%80%D0%BE%D1%82%D0%B8%D0%B2%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5%20%D1%81%D0%B2%D1%8F%D1%82%D0%BE%D0%B3%D0%BE.webp"/>
+
+</item>
+
+
+
+<!-- 9. Владыка множества миров -->
+
+<item>
+
+    <title><![CDATA[Владыка множества миров]]></title>
+
     <link>https://animix.site/anime/vladika-mnojestva-mirov.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Боевые искусства» / Китайское аниме в жанре «Экшен» / Китайское аниме в жанре «Фэнтези» / Китайское аниме в жанре «Исторический» / Китайское аниме 2021 года ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Sun, 18 May 2025 21:35:13 +0300</pubDate>
-    <description>
-    <![CDATA[ В этот день Линь Фэн собирал свой боевой дух в особняке Линь, но он не хотел, он просто культивировал свой боевой дух меча в прототип, когда его невеста Цзи Маньяо воспользовался возможностью забрать его боевой дух, это привело к тому, что его чуть не вырвало кровью и он чуть не умер. В то же время, дух Линь Фэна вошел в Страну Погребенных Богов, где таинственная женщина сказала Линь Фэну, что он может получить огромное количество боевой силы и знаний, уничтожив древних богов, похороненных здесь. В реальном мире, Линь Фэн, который изначально был молодым хозяином семьи Лин, потерял свой боевой дух и силу меча и, стал изгоем среди слугами семьи. ]]>
-    </description>
-    <content:encoded>
-    <![CDATA[В этот день Линь Фэн собирал свой боевой дух в особняке Линь, но он не хотел, он просто культивировал свой боевой дух меча в прототип, когда его невеста Цзи Маньяо воспользовался возможностью забрать его боевой дух, это привело к тому, что его чуть не вырвало кровью и он чуть не умер. В то же время, дух Линь Фэна вошел в Страну Погребенных Богов, где таинственная женщина сказала Линь Фэну, что он может получить огромное количество боевой силы и знаний, уничтожив древних богов, похороненных здесь. В реальном мире, Линь Фэн, который изначально был молодым хозяином семьи Лин, потерял свой боевой дух и силу меча и, стал изгоем среди слугами семьи. ]]>
-    </content:encoded>
-    </item>
-    <item>
-    <title>Воинственный бог Асура</title>
-    <guid>https://animix.site/anime/voistvoniy-bog-asura.html</guid>
-    <link>https://animix.site/anime/voistvoniy-bog-asura.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Боевые искусства» / Китайское аниме в жанре «Экшен» / Китайское аниме в жанре «Приключения» / Китайское аниме в жанре «Романтика» / Китайское аниме в жанре «Фэнтези» / Китайское аниме в жанре «Демоны» / Китайское аниме 2023 года ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Sun, 18 May 2025 15:04:45 +0300</pubDate>
-    <description>
-    <![CDATA[ ]]>
-    </description>
-    <content:encoded>
-    <![CDATA[ В мире, где магия и технология переплелись в невероятное сочетание, центральным героем стал бог Асура, владыка магической силы, способной подчинить всему и всем. Его рука - источник непреодолимой мощи, способной сокрушить армии и переписать законы природы. ]]>
-    </content:encoded>
-    </item>
-    <item>
-    <title>Пришедший из древности</title>
-    <guid>https://animix.site/anime/prishedshiy-iz-derevnisti.html</guid>
-    <link>https://animix.site/anime/prishedshiy-iz-derevnisti.html</link>
-    <category>
-    <![CDATA[ Китайское аниме в жанре «Боевые искусства» / Китайское аниме в жанре «Экшен» / Китайское аниме в жанре «Приключения» / Китайское аниме в жанре «Фэнтези» / Китайское аниме в жанре «Сверхъестественное» / Китайское аниме 2023 года ]]>
-    </category>
-    <dc:creator>admin</dc:creator>
-    <pubDate>Sun, 18 May 2025 00:32:58 +0300</pubDate>
-    <description>
-    <![CDATA[ "Талантливый алхимик Е Фэн был предательски убит, когда решительно пытался преодолеть преграды Неба и Земли ради усиления своей силы. Его мечта о совершенстве прервалась, но судьба решила дать ему второй шанс. Через 500 лет герой перерождается и, пронизанный жаждой мщения, начинает свой новый путь культивации.]]>
-    </description>
-    <content:encoded>
-    <![CDATA[ "Талантливый алхимик Е Фэн был предательски убит, когда решительно пытался преодолеть преграды Неба и Земли ради усиления своей силы. Его мечта о совершенстве прервалась, но судьба решила дать ему второй шанс. Через 500 лет герой перерождается и, пронизанный жаждой мщения, начинает свой новый путь культивации.]]>
-    </content:encoded>
-    </item>
-    </channel>
-    </rss>
+
+    <guid isPermaLink="true">https://animix.site/anime/vladika-mnojestva-mirov.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 14:00:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донинхуа]]></category>
+
+    <description><![CDATA[Герой путешествует по разным мирам, сражаясь и овладевая силами.]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Открытие новых миров, борьба с уникальными врагами и путь к становлению властелином.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/%D0%B2%D0%BB%D0%B0%D0%B4%D1%8B%D0%BA%D0%B0%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BC%D0%B8%D1%80%D0%BE%D0%B2.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/%D0%B2%D0%BB%D0%B0%D0%B4%D1%8B%D0%BA%D0%B0%20%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0%20%D0%BC%D0%B8%D1%80%D0%BE%D0%B2.webp"/>
+
+</item>
+
+
+
+<!-- 10. Практикуя ци сто тысяч лет -->
+
+<item>
+
+    <title><![CDATA[Практикуя ци сто тысяч лет]]></title>
+
+    <link>https://animix.site/anime/praktikuya-si-sto-tisoch-let.html</link>
+
+    <guid isPermaLink="true">https://animix.site/anime/praktikuya-si-sto-tisoch-let.html</guid>
+
+    <pubDate>Tue, 25 Nov 2025 14:30:00 +0300</pubDate>
+
+    <dc:creator><![CDATA[AMEDIA.FUN]]></dc:creator>
+
+    <category><![CDATA[Донинхуа]]></category>
+
+    <description><![CDATA[Сююя Ян посвятил тысячи лет медитации и возвращается в разрушенную секту.]]></description>
+
+    <content:encoded><![CDATA[
+
+        <p>Сююя Ян возвращается в свою секту, чтобы восстановить её статус после долгой культивации.</p>
+
+    ]]></content:encoded>
+
+    <media:content url="https://animix.site/img/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%8F%20%D1%86%D0%B8%20%D1%81%D1%82%D0%BE%20%D1%82%D1%8B%D1%81%D1%8F%D1%87%20%D0%BB%D0%B5%D1%82.webp" medium="image" type="image/webp" width="1200" height="630"/>
+
+    <media:thumbnail url="https://animix.site/img/%D0%9F%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83%D1%8F%20%D1%86%D0%B8%20%D1%81%D1%82%D0%BE%20%D1%82%D1%8B%D1%81%D1%8F%D1%87%20%D0%BB%D0%B5%D1%82.webp"/>
+
+</item>
+
+</channel></rss>
