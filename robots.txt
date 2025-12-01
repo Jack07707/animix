@@ -99,7 +99,6 @@ Allow: /*.svg$
 #  SITEMAPS
 # ============================
 Sitemap: https://animix.site/sitemap.xml
-Sitemap: https://animix.site/sitemap-images.xml
 
 # ============================
 #  BLOCK BAD BOTS  (AGGRESSIVE SCRAPERS)
